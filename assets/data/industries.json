@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Education",
+        "value": "Education",
+        "persona": [
+            "Tutorials",
+            "School",
+            "College",
+            "Arts"
+        ]
+    },
+    {
+        "name": "Healthcare",
+        "value": "Healthcare",
+        "persona": [
+            "Hospital",
+            "Laboratory",
+            "Clinic",
+            "Medicals"
+        ]
+    },
+    {
+        "name": "Finance",
+        "value": "Finance",
+        "persona": [
+            "Bank",
+            "Finance",
+            "Other"
+        ]
+    },
+    {
+        "name": "Hospitality",
+        "value": "Hospitality",
+        "persona": [
+            "Restaurant",
+            "BnB",
+            "Hotel Or Resort",
+            "Online Aggregator",
+            "SaaS"
+        ]
+    }
+]
